@@ -1,0 +1,59 @@
+*{
+    background-color: antiquewhite;
+}
+
+p{
+    color: red;
+}
+
+.c1{
+    background-image: url(image/rm.jpg);
+    height: 700px;
+    width: 1200px;
+    
+}
+#c2{
+    background-image: url(image/small.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    width: 1200px;
+}
+.c1{
+    color: blue;
+}
+.c1 h1{
+    color: white;
+}
+.c1 #pfirst{
+    background-color:darkred;
+}
+h2{
+     border-style: dashed;
+    border-color: blueviolet blue green red;
+    border-width: 6px 5px 6px 5px;
+}
+h3{
+      border-style: dashed dotted double solid;
+    border-color: blueviolet blue green red;
+    border-width: 6px 5px 6px 5px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
